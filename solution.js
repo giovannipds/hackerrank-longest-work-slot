@@ -42,6 +42,7 @@ function findLongestSingleSlot(leaveTimes) {
       initTime = leaveTimes[i][1]
   }
   return chars[helper.find((a) => a.timeSlot === longest).id]
+  // By giovannipds
 }
 
 function main() {
