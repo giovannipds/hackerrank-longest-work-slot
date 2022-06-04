@@ -1,0 +1,12 @@
+{
+  "name": "hackerrank-longest-work-slot",
+  "version": "1.0.0",
+  "description": "There are 26 employees to complete a task. The employees have IDs in the range _['a'-'z']_, where employee _0_ has _ID = 'a'_, employee _1_ has _ID = 'b'_, ... employee _25_ has _ID = 'z'_. The task runs continuously, and the employees take turns to perform the task. At any moment of time, exactly one employee is working on the task. As soon as an employee leaves the task, the following employee starts working on it.",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
